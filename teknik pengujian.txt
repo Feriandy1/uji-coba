@@ -1,0 +1,19 @@
+menguji dengan bahan alami
+- zat A
+* mengerus bersama zat A hingga berwarna biru
+- zat B
+* mengerus bersama zat B hingga menghasilkan endapan pati
+- Zat C
+* 
+menguji dengan bahan kimia
+- zat D 
+* mencampur zat D hingga menggumpal
+- zat E
+* mencampur zat E hingga berwarna biru
+- zat F
+* mencampur zat F hingga menghasilkan cairan lengket
+- zat G
+* menaburi dengan zat G hingga bahan menjadi padat
+menguji dengan alat uji
+- alat A
+*memasukkan bahan ke alat A untuk di pindai
